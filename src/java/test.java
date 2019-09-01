@@ -14,4 +14,5 @@ public class test {
     private String name;
     private String age;
     private String gender;
+    private int id;
 }
