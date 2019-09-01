@@ -16,4 +16,5 @@ public class test {
     private String gender;
     private int id;
     private int address;
+    private String del;
 }
