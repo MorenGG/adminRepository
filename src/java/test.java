@@ -1,5 +1,5 @@
 package java;/**
- * ClassName:test
+     * ClassName:test
  * Package:java
  * Description:<br/>
  *
@@ -15,4 +15,5 @@ public class test {
     private String age;
     private String gender;
     private int id;
+    private int address;
 }
